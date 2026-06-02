@@ -1,0 +1,14 @@
+Archivos para subir a GitHub Pages
+
+Sube todo el contenido de esta carpeta manteniendo la estructura:
+
+index.html
+politica_monetaria.html
+politica_exterior.html
+img/funcionamiento_politica_monetaria.png
+img/guia_inflacion_economica.png
+img/claves_comercio_internacional.png
+pdf/actividad_competencial.pdf
+
+No cambies los nombres de las carpetas img y pdf.
+La página de inicio debe llamarse index.html.
